@@ -5,7 +5,7 @@
 
 I have to decide, what topics should I get my hands on.
 
-### Main Research Interrests
+### Main Research Interests
 
 - electric drives
     - AC Induction
@@ -24,7 +24,7 @@ I have to decide, what topics should I get my hands on.
     - Xilinx Kria KR260 (FPGA + CPU)
 
 
-### Side Research Interrests
+### Side Research Interests
 
 - pulling data out of controlled systems via FPGA, CPU and process them in Python
 - designing systems in Next.js / React with usage of data from controllers
