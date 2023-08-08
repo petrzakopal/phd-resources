@@ -57,6 +57,8 @@ archive of [Linux Foundation](https://events.linuxfoundation.org/about/calendar/
 
 [IEEE International Symposium on Embedded Multicore Socs (MCSoC)](https://ieeexplore.ieee.org/xpl/conhome/1801959/all-proceedings)
 
+[Mezinárodní Masarykova konference pro doktorandy a mladé vědecké pracovníky,](http://www.masarykovakonference.cz/uvod)
+
 
 ## Journals
 
