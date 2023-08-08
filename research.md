@@ -5,22 +5,34 @@
 
 I have to decide, what topics should I get my hands on.
 
-### Research Interrests
+### Main Research Interrests
 
 - electric drives
     - AC Induction
     - PMSM
     - BLDC
-- controlling of electric drives - embedded systems
+- controlling and testing (HiL) electric drives and embedded systems (FPGA in Loop)
     - FPGA controlling systems - Designing Logical Circuits
         - Verilog (mainly), VHDL - need to learn syntax
     - CPU and micro controllers
         - C, C++
         - Rust want to check out for type and memory safety features
+- writing test for created systems for FPGA and CPU
 - using less power and financials demanding controllers which I want to test if they are production ready
     - OrangePi (CPU)
     - Lattice ICE40 Stick (FPGA)
     - Xilinx Kria KR260 (FPGA + CPU)
+
+
+### Side Research Interrests
+
+- pulling data out of controlled systems via FPGA, CPU and process them in Python
+- designing systems in Next.js / React with usage of data from controllers
+- visualization of systems + possibility of recofigurate them
+- improving Open Source Materials to study
+
+
+# Research Info
 
 [Info about research at Research.com](https://research.com/research)
 
