@@ -93,6 +93,7 @@ archive of [Linux Foundation](https://events.linuxfoundation.org/about/calendar/
 
 [Mezinárodní Masarykova konference pro doktorandy a mladé vědecké pracovníky,](http://www.masarykovakonference.cz/uvod)
 
+[The premier open source silicon conference](https://orconf.org/) - conference, where cocotb was presented...
 
 ## Journals
 
