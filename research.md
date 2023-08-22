@@ -105,3 +105,5 @@ archive of [Linux Foundation](https://events.linuxfoundation.org/about/calendar/
 [goto](https://gotopia.tech/)
 
 [P99 conf](https://www.p99conf.io/) - free virtual tickets or YouTube channel, they are obssesed by speed - „Explore Rust, C++, Go, event streaming architectures, distributed databases, Linux kernel, observability, K8s & moreExplore Rust, C++, Go, event streaming architectures, distributed databases, Linux kernel, observability, K8s & more“
+
+[TestMu Conference - conference about testing (on-line)](https://www.lambdatest.com/testmuconf-2023)
